@@ -1,2 +1,2 @@
-naked-wordpress
-===============
+# Simple-Blog
+An empty WordPress theme. 
